@@ -1,0 +1,38 @@
+newmtl BodySG
+illum 4
+Kd 0.95 0.96 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl GlassSG
+illum 4
+Kd 0.00 0.92 1.00
+Ka 0.00 0.00 0.00
+Tf 0.59 0.59 0.59
+Ni 1.00
+newmtl GrillSG
+illum 4
+Kd 0.57 0.57 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl TertiarySG
+illum 4
+Kd 1.00 0.09 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl TireSG
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
